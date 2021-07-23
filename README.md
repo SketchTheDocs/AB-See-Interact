@@ -51,7 +51,7 @@ Let's play!
 
 | Source | Puzzles |
 |:--|:--|
-| [Hello World](https://aka.ms/helloworld) (Mar-Jun) | [Play It!](https://sketchthedocs.github.io/ab-see-play/hello-world.html)|
-| [Azure Functions](https://aka.ms/AzureFunctionsOnDemand) (Jul 2021)|  [Play It!](https://sketchthedocs.github.io/ab-see-play/azure-functions.html)|
+| [Hello World](https://aka.ms/helloworld) (Mar-Jun) | [Play It!](https://sketchthedocs.github.io/AB-See-Interact/hello-world.html)|
+| [Azure Functions](https://aka.ms/AzureFunctionsOnDemand) (Jul 2021)|  [Play It!](https://sketchthedocs.github.io/AB-See-Interact/azure-functions.html)|
 
 ### 
